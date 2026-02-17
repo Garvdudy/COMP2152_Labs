@@ -1,0 +1,7 @@
+2026-02-17 13:48:5,nslookup,garvdudy.com,216.198.79.65,Success
+2026-02-17 13:48:5,nslookup,oraleo.com,216.198.79.1,Success
+2026-02-17 13:50:5,ping,oraleo.com,3.767,Success
+2026-02-17 13:50:5,ifconfig,en0,e2:f3:e8:bc:b1:fd / 10.4.113.112,Captured
+2026-02-17 13:50:5,ifconfig,en0,e2:f3:e8:bc:b1:fd / 10.4.113.112,Captured
+2026-02-17 13:50:5,arp,local,4 devices,Captured
+2026-02-17 13:51:5,nslookup,iwosdnovj.com,Not found,Failed

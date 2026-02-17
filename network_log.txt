@@ -1,0 +1,10 @@
+[2026-02-17 13:50:08] PING oraleo.com
+PING oraleo.com (216.198.79.1): 56 data bytes
+64 bytes from 216.198.79.1: icmp_seq=0 ttl=249 time=3.741 ms
+64 bytes from 216.198.79.1: icmp_seq=1 ttl=249 time=3.715 ms
+64 bytes from 216.198.79.1: icmp_seq=2 ttl=249 time=3.845 ms
+
+--- oraleo.com ping statistics ---
+3 packets transmitted, 3 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 3.715/3.767/3.845/0.056 ms
+----------------------------------------

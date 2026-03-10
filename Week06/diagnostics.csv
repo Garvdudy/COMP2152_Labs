@@ -1,0 +1,15 @@
+2026-02-17 13:48:5,nslookup,garvdudy.com,216.198.79.65,Success
+2026-02-17 13:48:5,nslookup,oraleo.com,216.198.79.1,Success
+2026-02-17 13:50:5,ping,oraleo.com,3.767,Success
+2026-02-17 13:50:5,ifconfig,en0,e2:f3:e8:bc:b1:fd / 10.4.113.112,Captured
+2026-02-17 13:50:5,ifconfig,en0,e2:f3:e8:bc:b1:fd / 10.4.113.112,Captured
+2026-02-17 13:50:5,arp,local,4 devices,Captured
+2026-02-17 13:51:5,nslookup,iwosdnovj.com,Not found,Failed
+2026-02-17 19:17:5,ping,garvdudy,N/A,Failed
+2026-02-17 19:17:5,ping,dakshyadav.com,54.921,Success
+2026-02-17 19:18:5,nslookup,dakshyadav.com,216.198.79.1,Success
+2026-02-17 19:18:5,nslookup,oraleo.com,216.198.79.1,Success
+2026-02-17 19:18:5,nslookup,garvdudy.com,216.198.79.65,Success
+2026-02-17 19:18:5,nslookup,oraleo.com,216.198.79.1,Success
+2026-02-17 19:18:5,ifconfig,en0,9a:b3:e4:df:47:96 / 10.158.35.237,Captured
+2026-02-17 19:18:5,arp,local,3 devices,Captured

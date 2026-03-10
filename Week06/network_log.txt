@@ -1,0 +1,22 @@
+[2026-02-17 13:50:08] PING oraleo.com
+PING oraleo.com (216.198.79.1): 56 data bytes
+64 bytes from 216.198.79.1: icmp_seq=0 ttl=249 time=3.741 ms
+64 bytes from 216.198.79.1: icmp_seq=1 ttl=249 time=3.715 ms
+64 bytes from 216.198.79.1: icmp_seq=2 ttl=249 time=3.845 ms
+
+--- oraleo.com ping statistics ---
+3 packets transmitted, 3 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 3.715/3.767/3.845/0.056 ms
+----------------------------------------
+[2026-02-17 19:17:29] PING garvdudy
+Ping failed: Host unreachable or request timed out.----------------------------------------
+[2026-02-17 19:17:48] PING dakshyadav.com
+PING dakshyadav.com (64.29.17.1): 56 data bytes
+64 bytes from 64.29.17.1: icmp_seq=0 ttl=239 time=43.493 ms
+64 bytes from 64.29.17.1: icmp_seq=1 ttl=239 time=72.419 ms
+64 bytes from 64.29.17.1: icmp_seq=2 ttl=239 time=48.852 ms
+
+--- dakshyadav.com ping statistics ---
+3 packets transmitted, 3 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 43.493/54.921/72.419/12.565 ms
+----------------------------------------
